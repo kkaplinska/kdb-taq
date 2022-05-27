@@ -147,3 +147,5 @@ castcol[`:.;`trade;`time;`second]
 renamecol[`:.;`trade;`price;`PRICE]
 pxcols:{(y,())renamecol[`:.;x]'z,()]
 `PRICE`size renamecol[`:.;`trade]'`p`s
+
+//comment1
